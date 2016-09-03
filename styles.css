@@ -1,6 +1,5 @@
 h1 {
     text-align: center;
-    margin-top: 300px;
-    font-family: 'Source Sans Pro';
-    font-weight: 800;
+    margin-top: 10%;
+    font: 800 'Source Sans Pro';
 }
