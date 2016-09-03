@@ -1,10 +1,5 @@
-/*@font-face {*/
-/*    font-family: AvenirNextCondensed;*/
-/*    src: url(Avenir_Next_Condensed.ttc);*/
-/*}*/
-
 h1 {
     text-align: center;
     margin-top: 300px;
-    font: 30px bold Open Sans;
+    font-family: 'Open Sans', sans-serif;
 }
